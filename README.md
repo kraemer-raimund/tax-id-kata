@@ -2,6 +2,10 @@
 
 A coding kata that focuses on encapsulation and domain-driven design.
 
+
+###### *An [example solution](https://github.com/kraemer-raimund/tax-id-kata-solution-example) is available.*
+___
+
 ## Design Goals
 
 - If I create or receive a tax ID object, it is just that: A tax ID, not a string or something else.
